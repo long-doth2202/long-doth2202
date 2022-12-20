@@ -62,7 +62,7 @@
     <img align="center" width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=long-doth2202&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="long-doth2202">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=long-doth2202&show_icons=true&theme=github_dark&border_color=61dafb&hide_border=true&count_private=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=long-doth2202&show_icons=true&theme=github_dark&layout=compact&border_color=61dafb&hide_border=true&count_private=true" />
   </a>
 </div>
 
@@ -71,12 +71,12 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/dothlong" target="blank">
-    <img width="80" height="80" src="https://img.icons8.com/color/512/facebook-new.png" alt="longdoth2202-facebook" />
+    <img width="50" height="50" src="https://img.icons8.com/color/512/facebook-new.png" alt="longdoth2202-facebook" />
   </a>
   <a href="https://instagram.com/long.doth" target="blank">
-    <img width="80" height="80" src="https://img.icons8.com/fluency/512/instagram-new.png" alt="longdoth2202-instagram" />
+    <img width="50" height="50" src="https://img.icons8.com/fluency/512/instagram-new.png" alt="longdoth2202-instagram" />
   </a>
   <a href="mailto:long.doth2202@gmail.com" target="top">
-    <img width="80" height="80" src="https://img.icons8.com/color/512/gmail-new.png" alt="longdoth2202-email" />
+    <img width="50" height="50" src="https://img.icons8.com/color/512/gmail-new.png" alt="longdoth2202-email" />
   </a>
 </div>
