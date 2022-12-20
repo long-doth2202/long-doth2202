@@ -1,10 +1,10 @@
-<h2 align="center">-- My Favorite Quote --</h2>
+<h2 align="center">📌 My Favorite Quote</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/quote.svg" width="846" height="150" alt="long-doth2202" />
 </a>
 
-<h2 align="center">-- Knowledge --</h2>
+<h2 align="center">🎯 Knowledge</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -39,7 +39,7 @@
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp; -->
 
-<h2 align="center">-- GitHub Statistics --</h2>
+<h2 align="center">✨ GitHub Statistics</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
@@ -51,7 +51,7 @@
   </a>
 </div>
 
-<h2 align="center">-- Contact Me --</h2>
+<h2 align="center">🔔 Contact Me</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
