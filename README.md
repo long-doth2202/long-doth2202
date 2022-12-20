@@ -62,7 +62,7 @@
     <img align="center" width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=long-doth2202&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="long-doth2202">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=long-doth2202&show_icons=true&theme=github_dark&layout=compact&border_color=61dafb&hide_border=true&count_private=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=long-doth2202&show_icons=true&theme=react&layout=compact&border_color=61dafb&hide_border=true&count_private=true" />
   </a>
 </div>
 
